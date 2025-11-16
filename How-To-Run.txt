@@ -1,0 +1,2 @@
+Move into dist/ folder
+and run basic.exe
